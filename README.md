@@ -1,9 +1,9 @@
 # Microprocessor Trend Data
-
+matth2k: I have added some recent data through 2024.
 This repository contains the raw data used in my blog series on microprocessor trend data:
 
   * 54 Years of Microprocessor Trend Data
-    ![54 Years of Microprocessor Trend Data Chart](54yrs/54-years-processor-trend.png)
+    ![54 Years of Microprocessor Trend Data Chart](54yrs/54-years-processor-trend-bg.png)
   * [50 Years of Microprocessor Trend Data](https://www.karlrupp.net/2018/02/42-years-of-microprocessor-trend-data/)
   * [48 Years of Microprocessor Trend Data](https://www.karlrupp.net/2018/02/42-years-of-microprocessor-trend-data/)
   * [42 Years of Microprocessor Trend Data](https://www.karlrupp.net/2018/02/42-years-of-microprocessor-trend-data/)
